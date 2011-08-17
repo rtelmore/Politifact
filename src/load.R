@@ -10,6 +10,7 @@ source(paste(project.path, "src/functions.R", sep=""))
 
 ## Load libraries
 library(ggplot2)
+library(XML)
 
 ## Load data
 ## data.str <- paste(project.path, "data/some_data_file.dat", sep = "")
