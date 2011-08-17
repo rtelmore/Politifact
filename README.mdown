@@ -1,0 +1,17 @@
+### Which Republican candidates lie the most (according to Politifact)?
+
+### Contact
+
+Ryan Elmore
+
+- Email: rtelmore@gmail.com
+
+### History
+
+Initial Commit: 2011-August-13
+
+### License
+
+Copyright (c) 2011, under the Simplified BSD License.  
+For more information on FreeBSD see: http://www.opensource.org/licenses/bsd-license.php  
+All rights reserved.
