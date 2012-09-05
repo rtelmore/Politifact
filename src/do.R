@@ -45,9 +45,8 @@ p + geom_bar() +
   scale_y_continuous("number of statements") +
   opts(axis.text.x=theme_text(angle=-90))
 
-
-names <- c("dennis-kucinich", "barney-frank", "bernie-sanders",
-           "michele-bachmann", "rick-perry", "mitt-romney")
+## Round Two  6 Sept 2012
+names <- c("mitt-romney", "paul-ryan", "joe-biden", "barack-obama")
 
 base.url <- "http://www.politifact.com/personalities/"
 
